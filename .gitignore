@@ -1,0 +1,11 @@
+# Data
+data/
+*.csv
+
+# Models
+*.pkl
+
+# Python
+__pycache__/
+.venv/
+.env
